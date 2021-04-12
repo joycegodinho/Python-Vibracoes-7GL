@@ -2,7 +2,7 @@
 """
 Created on Mon Mar 15 18:11:20 2021
 
-@author: Lucas
+@author: Lucas e Joyce
 """
 from __future__ import print_function
 import numpy as np
